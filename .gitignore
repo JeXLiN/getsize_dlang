@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/getsize
+getsize.so
+getsize.dylib
+getsize.dll
+getsize.a
+getsize.lib
+getsize-test-*
+*.exe
+*.o
+*.obj
+*.lst

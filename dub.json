@@ -1,0 +1,11 @@
+{
+    "name": "getsize",
+    "description": "Get and display the size of file or directory with binary prefixes",
+    "authors": ["Sergey Barskov"],
+    "homepage": "https://github.com/JeXLiN/getsize_dlang",
+    "copyright": "Copyright © 2020, Sergey Barskov",
+    "license": "MIT",
+    "targetType": "executable",
+    "lflags": ["-s"],
+    "mainSourceFile": "getsize.d"
+}
